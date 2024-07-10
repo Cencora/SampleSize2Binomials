@@ -11,8 +11,9 @@
 #   1.0       14-Sep-2021     TDE                  Creation
 #
 # Declaration of Confidentiality (choose the applicable sentence):
-#   - I declare that this program may contain or contain confidential
-#     information and that it cannot be shared as it.
+#   - I, as an author, certify that this program is free from any client or 
+#     client project information whatever the type of information and that 
+#     this program can be used without risk of confidentiality issue.
 #
 ###########################################################################
 
